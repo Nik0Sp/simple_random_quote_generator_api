@@ -1,1 +1,1 @@
-# simple_random_quote_generator_api
+simple random quote generator api

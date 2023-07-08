@@ -108,6 +108,7 @@ body::after {
   transform: translate(-50%, -50%);
   left: 50%;
   bottom: -9px;
+  cursor: pointer;
 }
 
 
